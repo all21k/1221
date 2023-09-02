@@ -4,35 +4,35 @@
       "confTeams" : [
         {
           "abbreviation" : "ALA",
-          "prestige" : "95",
+          "prestige" : "99",
           "hexColor" : "#9E1B32",
           "offCoordinator" : {
             "contractLength" : "3",
             "startYear" : "2020",
             "age" : "56",
-            "cumulativePrestige" : "0",
+            "cumulativePrestige" : "99",
             "homeState" : "Washington DC",
-            "ratPot" : "85",
+            "ratPot" : "99",
             "hometown" : "Boston",
-            "ratTalent" : "85",
-            "baselinePrestige" : "95",
-            "coachingAbility" : "80",
+            "ratTalent" : "99",
+            "baselinePrestige" : "99",
+            "coachingAbility" : "99",
             "name" : "Bill O'Brien",
-            "contractYear" : "1"
+            "contractYear" : "3"
           },
           "defCoordinator" : {
-            "contractLength" : "1",
+            "contractLength" : "3",
             "startYear" : "2020",
             "age" : "36",
-            "cumulativePrestige" : "0",
+            "cumulativePrestige" : "99",
             "homeState" : "Maryland",
-            "ratPot" : "88",
+            "ratPot" : "99",
             "hometown" : "Nixon",
-            "ratTalent" : "80",
-            "baselinePrestige" : "95",
-            "coachingAbility" : "85",
+            "ratTalent" : "99",
+            "baselinePrestige" : "99",
+            "coachingAbility" : "99",
             "name" : "Pete Golding",
-            "contractYear" : "1"
+            "contractYear" : "3"
           },
           "rival" : ["AUB", "TEN", "LSU", "GEO", "MISS", "MSST", "FLA", "CLEM"],
           "rivalryNames" : {
@@ -45,16 +45,16 @@
             "contractLength" : "6",
             "startYear" : "2020",
             "age" : "69",
-            "ratOff" : "95",
+            "ratOff" : "99",
             "cumulativePrestige" : "100",
-            "ratDef" : "95",
+            "ratDef" : "99",
             "homeState" : "Alaska",
-            "ratPot" : "95",
+            "ratPot" : "99",
             "hometown" : "Mesquite",
-            "ratTalent" : "95",
-            "baselinePrestige" : "95",
+            "ratTalent" : "99",
+            "baselinePrestige" : "99",
             "name" : "Nick Saban",
-            "contractYear" : "1"
+            "contractYear" : "3"
           },
           "name" : "Alabama",
           "state" : "Alabama"
