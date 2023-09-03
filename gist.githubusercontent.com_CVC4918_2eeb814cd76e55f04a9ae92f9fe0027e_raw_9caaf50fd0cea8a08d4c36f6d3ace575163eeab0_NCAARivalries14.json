@@ -7,7 +7,7 @@
           "prestige" : "99",
           "hexColor" : "#9E1B32",
           "offCoordinator" : {
-            "contractLength" : "3",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "56",
             "cumulativePrestige" : "99",
@@ -18,10 +18,10 @@
             "baselinePrestige" : "99",
             "coachingAbility" : "99",
             "name" : "Bill O'Brien",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "defCoordinator" : {
-            "contractLength" : "3",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "36",
             "cumulativePrestige" : "99",
@@ -32,7 +32,7 @@
             "baselinePrestige" : "99",
             "coachingAbility" : "99",
             "name" : "Pete Golding",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "rival" : ["AUB", "TEN", "LSU", "GEO", "MISS", "MSST", "FLA", "CLEM"],
           "rivalryNames" : {
