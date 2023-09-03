@@ -44,7 +44,7 @@
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
-            "age" : "69",
+            "age" : "25",
             "ratOff" : "99",
             "cumulativePrestige" : "100",
             "ratDef" : "99",
@@ -53,8 +53,8 @@
             "hometown" : "Mesquite",
             "ratTalent" : "99",
             "baselinePrestige" : "99",
-            "name" : "Nick Saban",
-            "contractYear" : "3"
+            "name" : "Adam Hart",
+            "contractYear" : "1"
           },
           "name" : "Alabama",
           "state" : "Alabama"
